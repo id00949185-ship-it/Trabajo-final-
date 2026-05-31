@@ -1,11 +1,4 @@
 ---
-title: "Trabajo Final Konstancja Kazmierska"
-author: "Konstancja Kazmierksa"
-date: "2026-05-31"
-output: html_document
----
-
----
 title: "Usos de las redes sociales en España – Análisis Descriptivo"
 author: "Konstancja Kazmierska"
 date: "`r Sys.Date()`"
