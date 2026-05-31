@@ -1,0 +1,52 @@
+﻿"Año";"Periodo";"Parámetro";"Facebook";"Instagram";"LinkedIn";"Twitter"
+"2020";"Año";"Madrid";"2.500.000";"2.500.000";"2.700.000";"570.506"
+"2020";"Año";"Barcelona";"1.400.000";"1.600.000";"1.900.000";"358.040"
+"2020";"Año";"Valencia";"750.000";"670.000";"310.000";"174.470"
+"2020";"Año";"Sevilla";"590.000";"500.000";"470.000";"152.063"
+"2020";"Año";"Zaragoza";"450.000";"390.000";"200.000";"56.018"
+"2020";"Año";"Málaga";"400.000";"350.000";"380.000";"104.454"
+"2020";"Año";"Vitoria - Gasteiz";"140.000";"130.000";"50.000";"7.092"
+"2020";"Año";"Murcia";"290.000";"240.000";"260.000";"66.009"
+"2020";"Año";"Palma";"330.000";"260.000";"130.000";"20.150"
+"2020";"Año";"Las Palmas de G.C";"320.000";"260.000";"99.000";"21.615"
+;;;;;
+;;;;;
+"Métrica":"Facebook"
+"Fuente":"The Social Media Family"
+"Clasificación":""
+"Unidad":"Usuarios"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;;
+;;;;;
+"Métrica":"Instagram"
+"Fuente":"The Social Media Family"
+"Clasificación":""
+"Unidad":"Usuarios"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;;
+;;;;;
+"Métrica":"LinkedIn"
+"Fuente":"The Social Media Family"
+"Clasificación":""
+"Unidad":"Usuarios"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;;
+;;;;;
+"Métrica":"Twitter"
+"Fuente":"The Social Media Family"
+"Clasificación":""
+"Unidad":"Usuarios"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;;
+;;;;;
+"Url":"https://www.epdata.es/usuarios-cada-red-social-ciudades-mas-pobladas-espana/c413f366-ca90-45f8-a677-b45d78b251bf"
+"Titulo":"Usuarios de cada red social en las diez ciudades más pobladas de España"
+"Subtitulo":""

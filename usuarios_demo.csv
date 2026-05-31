@@ -1,0 +1,31 @@
+﻿"Año";"Periodo";"Parámetro";"Hombres";"Mujeres"
+"2020";"Año";"13-17";"1,40";"1,10"
+"2020";"Año";"18-24";"6,60";"6,20"
+"2020";"Año";"25-34";"12,50";"13,20"
+"2020";"Año";"35-44";"12,10";"11,10"
+"2020";"Año";"45-54";"9,70";"8,30"
+"2020";"Año";"55-64";"6,20";"4,90"
+"2020";"Año";" +65";"3,50";"3,10"
+;;;
+;;;
+"Métrica":"Hombres"
+"Fuente":"We are social / Hootsuite"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Métrica":"Mujeres"
+"Fuente":"We are social / Hootsuite"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Url":"https://www.epdata.es/usuarios-redes-sociales-espana-sexo-edad/3a79b176-c93b-4293-90f2-66e124f4109b"
+"Titulo":"Usuarios de redes sociales en España según sexo y edad"
+"Subtitulo":"Porcentaje de la audiencia publicitaria total en Facebook, Instagram y FB Messenger"
